@@ -1,7 +1,7 @@
 # WhoAreYou
 WhoAreYou is used for face swapping in images. based on this [tutorial](https://learnopencv.com/face-swap-using-opencv-c-python/).
 ## Examples
-![source image](///src/images/raisi.jpeg "Source Image")| ![destination image](./src/images/rouhani.jpeg#200X200 "Destination Image")| ![result image](./src/images/raisi-rohani.jpeg "Result Image")
+![source image](./src/images/raisi.jpeg "Source Image")| ![destination image](./src/images/rouhani.jpeg#200X200 "Destination Image")| ![result image](./src/images/raisi-rohani.jpeg "Result Image")
 
 ---
 
@@ -16,7 +16,7 @@ Face Swapper uses artificial intelligence to detect faces on photos and replaces
 
 | source             |  destination
 | :----: | :---: |
-![source image](///src/images/raisi.jpeg "Source Image")| ![destination image](./src/images/rouhani.jpeg#200X200 "Destination Image")
+![source image](./src/images/raisi.jpeg "Source Image")| ![destination image](./src/images/rouhani.jpeg#200X200 "Destination Image")
 
 
 2. **Find landmark points of both images and find convexHull** 
